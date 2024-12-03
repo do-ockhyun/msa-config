@@ -1,0 +1,6 @@
+server:
+  port: 0 # 서비스 포트는 동적으로 설정
+
+logging:
+  level:
+    root: INFO
