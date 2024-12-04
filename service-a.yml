@@ -2,4 +2,4 @@ spring:
   application:
     name: service-a
 
-message: Hello msa-study
+message: 안녕하세요 msa-study
